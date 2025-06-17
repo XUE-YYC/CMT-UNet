@@ -156,18 +156,7 @@ CMT-UNet/
 └── README.md               # This document
 ```
 
-## Citation
 
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{cmtunet2024,
-  title={CMT-UNet: CNN-Mamba Transformer UNet for Semantic Segmentation},
-  author={Author Name},
-  year={2024},
-  howpublished={\url{https://github.com/your_username/CMT-UNet}}
-}
-```
 
 ## License
 
