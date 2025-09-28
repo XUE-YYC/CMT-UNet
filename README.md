@@ -311,17 +311,4 @@ This implementation builds upon the following open-source projects and papers:
 4. **UNetFormer**: [UNetFormer: A Unified Transformer Architecture for Semantic Segmentation](https://arxiv.org/abs/2205.09512) (GitHub: [yhygao/UNetFormer](https://github.com/yhygao/UNetFormer))
 
 
-## Citation
-If you use CMT-UNet with A100 optimization in your research, please cite the following paper:
-```bibtex
-@article{CMT-UNet2024,
-  title={CMT-UNet: CNN-Mamba Transformer UNet for High-Resolution Remote Sensing Image Segmentation with A100 Acceleration},
-  author={Your Name and Co-Authors},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024},
-  volume={XX},
-  number={X},
-  pages={1-12},
-  doi={10.1109/TGRS.2024.XXXXXXX}
-}
-```
+
